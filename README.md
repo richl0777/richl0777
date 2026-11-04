@@ -1,6 +1,6 @@
 # Rich Lu
 
-Product leader and former ML engineer who turns frontier AI into products that win customers and scale. Founded Zorro AI, built an agentic growth that 5x conversion, and unified enterprise ML platforms in regulated markets.
+Product leader and former ML engineer who turns frontier AI into products that win customers and scale. Founded Zorro AI and scaled it from 0 to 200M+ agentic transactions, built an agentic growth system that lifts conversion 5×, and unified enterprise ML platforms for regulated markets.
 
 [GitHub](https://github.com/richl0777) · [LinkedIn](https://www.linkedin.com/in/richardyubolu)
 
