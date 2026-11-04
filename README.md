@@ -1,6 +1,6 @@
 # Rich Lu
 
-**Product leader and former ML Data Engineer.** I turn frontier AI into products that win customers, and I help teams ship faster and operate more efficiently as those products scale. I founded Zorro AI and led the team from a six-week MVP to a platform that processed **200M+ transactions**. Routing tasks to specialized models cut agent latency by **80%** and saved **$1M a year** in token costs. At Memori Labs, I built a growth system that identified **200+ qualified enterprise leads** and helped lift outbound conversion **5×**.
+**Product leader and former ML Data Engineer.** I turn frontier AI into products that win customers and help teams ship faster and extend what those products can do as they scale. I founded Zorro AI and led the team from a six-week MVP to a platform that processed **200M+ transactions**. Routing tasks to specialized models cut agent latency by **80%** and saved **$1M a year** in token costs. At Memori Labs, I built a growth system that identified **200+ qualified enterprise leads** and helped lift outbound conversion **5×**.
 
 [GitHub](https://github.com/richl0777) · [LinkedIn](https://www.linkedin.com/in/richardyubolu)
 
